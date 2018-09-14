@@ -1,5 +1,5 @@
 # Codes
-These are a selected group of class works and projects developed in the data structure course. They are all developed in Java, and I have full authority of them.
+These are a selected group of class works and projects developed in the data structure and algorithm analysis courses. They are all developed in school projects, and I have full authority of them.
 
 <h3>AVL</h3> It's a balanced binary search three that will autobalance every time the user adds or subtract nodes from it, the tree will auto balance.
 
